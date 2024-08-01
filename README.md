@@ -1,7 +1,5 @@
 # Advanced-ATS-Resume-Checker
-# ResumeATS Pro
 
-## Your Weapon Against ATS Rejection
 
 ![image](https://github.com/user-attachments/assets/f915239c-efa0-40dd-967d-d72fc0506ca0)
 

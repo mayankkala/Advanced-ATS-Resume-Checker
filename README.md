@@ -1,6 +1,5 @@
 # Advanced-ATS-Resume-Checker
 
-
 ![image](https://github.com/user-attachments/assets/f915239c-efa0-40dd-967d-d72fc0506ca0)
 
 ### What's This All About?
@@ -31,7 +30,7 @@ ResumeATS Pro is here to change that game.
 
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
-3. Set up your Google API key in a `.env` file
+3. Set up your Google API key `GOOGLE_API_KEY` in a `.env` file
 4. Run with: `streamlit run app.py`
 
 ### Want to Contribute?
@@ -56,4 +55,4 @@ Hit me up in the issues or at [mayankjainsikar1999@gmail.com].
 
 You're not just coding. You're changing lives. One resume at a time.
 
-Now go build something awesome! 
+Now go build something awesome!

@@ -32,7 +32,7 @@ ResumeATS Pro is here to change that game.
 1. Clone this repo
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set up your Google API key in a `.env` file
-4. Run with: `streamlit run app.py`
+4. Run with: `streamlit run resumeATS.py`
 
 ### Want to Contribute?
 
